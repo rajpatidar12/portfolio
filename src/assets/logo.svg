@@ -1,0 +1,23 @@
+<svg width="500" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="500" height="300" fill="#1e1e2f" />
+
+  <!-- Outer Border -->
+  <rect x="10" y="10" width="480" height="280" fill="none" stroke="#00d4ff" stroke-width="2" />
+
+  <!-- Code Braces -->
+  <text x="20" y="150" font-family="Courier New, monospace" font-size="100" fill="#00ff88">{</text>
+  <text x="460" y="150" font-family="Courier New, monospace" font-size="100" fill="#00ff88" text-anchor="end">}</text>
+
+  <!-- Text -->
+  <text x="50%" y="50%" font-family="Courier New, monospace" font-size="36" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">
+     Developer
+  </text>
+
+  <!-- Code Block -->
+  <rect x="60" y="180" width="380" height="80" fill="#2e2e3d" rx="8" />
+  <text x="70" y="210" font-family="Courier New, monospace" font-size="16" fill="#00d4ff">
+    &lt;&gt;  RAJ Patidar &lt;/&gt;
+  </text>
+  
+</svg>
