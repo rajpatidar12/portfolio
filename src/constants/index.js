@@ -93,7 +93,7 @@ const projects = [];
 const personalInfo = {
   name: "Raj",
   fullName: "Patidar",
-  email: "Patidarraj465@gmail.com",
+  email: "patidarraj465@gmail.com",
   role: "Software Developer",
   about: `I'm a skilled software developer with 
   JavaScript, and expertise in frameworks like React.Js, React-naitve,

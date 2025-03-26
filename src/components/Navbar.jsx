@@ -49,11 +49,7 @@ const Navbar = () => {
           <li
             className={`text-secondary text-[18px] font-medium cursor-pointer hover:text-white`}
           >
-            <a
-              href={publicUrls.resume}
-              download="Shridhar_Rai_Resume.pdf"
-              target="_blank"
-            >
+            <a href={publicUrls.resume} target="_blank">
               Resume
             </a>
           </li>
@@ -91,11 +87,7 @@ const Navbar = () => {
               <li
                 className={`text-secondary text-[18px] font-medium cursor-pointer hover:text-white`}
               >
-                <a
-                  href={publicUrls.resume}
-                  download="Shridhar_Rai_Resume.pdf"
-                  target="_blank"
-                >
+                <a href={publicUrls.resume} target="_blank">
                   Resume
                 </a>
               </li>
